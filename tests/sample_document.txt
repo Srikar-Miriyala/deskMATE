@@ -1,0 +1,19 @@
+Sample Invoice
+
+Invoice Number: INV-001
+Date: 2024-01-15
+Due Date: 2024-02-15
+
+Bill To:
+John Doe
+123 Main Street
+City, State 12345
+
+Description:
+- Consulting Services: $1,500.00
+- Software License: $500.00
+- Support: $200.00
+
+Total: $2,200.00
+
+Thank you for your business!
